@@ -3,7 +3,7 @@
  *
  * @link              https://fronseye.com
  * @since             1.0.0
- * @package           EPP - Dashboard
+ * @package           mass guna
  *
  * @wordpress-plugin
  * Plugin Name:       EPP - Dashboard
